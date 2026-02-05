@@ -21,6 +21,4 @@ This project is a front-end website inspired by **Theobroma**, built as part of 
 - User-friendly navigation  
 - Organized and readable code structure  
 
----
 
-## 📂 Project Structure
